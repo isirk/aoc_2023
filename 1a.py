@@ -1,4 +1,4 @@
-input = open("1a_input.txt", "r")
+input = open("1_input.txt", "r")
 sum = 0
 
 for line in input:
